@@ -1,0 +1,51 @@
+site_name: SigilRPG
+site_description: "Rulebook & Wiki for the SigilRPG system"
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - toc.integrate
+nav:
+  - Character Rules:
+      - Overview: character/overview.md
+      - Species: character/species.md
+      - Backstory: character/backstory.md
+      - "Discipline: Cunning": character/cunning.md
+      - "Discipline: Mysticism": character/mysticism.md
+      - "Discipline: Prowess": character/prowess.md
+      - Skills: character/skills.md
+      - Powers: character/powers.md
+  - Combat:
+      - Overview: combat/overview.md
+      - Damage: combat/damage.md
+      - Ailments: combat/ailments.md
+      - Attacks: combat/attacks.md
+  - Gear:
+      - Overview: gear/overview.md
+      - Modifications: gear/modifications.md
+      - Weapons: gear/weapons.md
+      - Protection: gear/protection.md
+      - Consumables: gear/consumables.md
+      - Goods: gear/goods.md
+      - Implants: gear/implants.md
+  - Technology:
+      - Overview: technology/overview.md
+      - Vehicles: technology/vehicles.md
+      - Weapons: technology/weapons.md
+  - World:
+      - Overview: world/overview.md
+      - Locations: world/locations.md
+      - Factions: world/factions.md
+      - Timeline: world/timeline.md
+      - Buildings: world/buildings.md
+      - Library: world/library.md
+  - Other:
+      - Beyond Third: other/beyond-third-horizon.md
+      - Therun: other/therun.md
+
+
+# Ignore "other" completely
+#exclude_docs: |
+#  other/*
