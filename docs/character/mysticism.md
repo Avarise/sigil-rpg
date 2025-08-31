@@ -1,47 +1,22 @@
-### Innate Ability (Tier I / II / III / IV)
-    Attribute Score Improvement: 2/4/6/8 
-    Enhancement Dice: 1d4/1d6/1d8/1d10
+## Innate Ability
+
+| Feature                 | Tier I | Tier II | Tier III | Tier IV |
+|------------------------|--------|---------|----------|---------|
+| Attribute Score Bonus  | +2     | +4      | +6       | +8      |
+| Enhancement Die        | d4     | d6      | d8       | d10     |
 
     MYSTICAL ENHANCEMENT: 
     Start each round with one Enhancement Die. You can use it to enhance features of this Discipline. 
     Anytime you consume enhancement die, gain temporary HP equal to rolled value. 
     You can consume the die directly for no cost at the beginning of your turn. 
 
-### Auras:
 
-    VOID DECAY 
-    All creatures of your choosing in 15 meters radius around you, lose 10 meters  
-    of movement, and their regeneration is reduced by 25%, to a minimum of 5%.  
-    Requirements: Mysticism III 
+---
+## Unlockable Abilities
 
-    PROTECTION SIGIL
-    All creatures of your choosing in 15 meters radius around you, including you, 
-    gain +1 bonus to Fortitude, Reflex, Willpower, and AC. 
-    Requirements: Mysticism I 
+---
+### Core Abilities
 
-    ETERNAL ENDURANCE
-    All creatures of your choosing in 15 meters radius around you, including you, 
-    instantly gain HP equal to your proficiency modifier, whenever they regenerate. 
-    Requirements: Mysticism II 
-
-    NULLIFICATION 
-    All powers of your choosing affecting targets in 15 meter radius around you 
-    have their DC reduced by 1 and damage they deal by 2. 
-    Requirements: Mysticism II 
-
-### Stances:
-    
-    STANCE: PHASE RUN 
-    Gain extra 30 meters per round of base movement speed while Incorporeal. 
-    Requirements: Mysticism III 
-
-    STANCE: SPELLSLINGER 
-    Regain 1 Focus after you cast a power, and regain 1 Mana if the power is successful. 
-    This effect cannot occur more than once per turn. 
-    You cannot concentrate on any effects or powers for 1 minute after entering this stance. 
-    Requirements: Mysticism III 
-
-### List of Abilities
     ARCANE ARTS I - IV 
     Learn up to proficiency modifier of Mystic-sourced powers. You can learn powers of a tier equal to level of this ability. 
     Become caster with one of the following as casting attribute: Intellect, Wisdom or Presence. 
@@ -50,8 +25,64 @@
     Tier II: Unlock Tier II powers, +4 maximum mana, +2 known mystic powers 
     Tier III: Unlock Tier III powers, +6 maximum mana, +3 known mystic powers 
     Tier IV: Unlock Tier IV powers, +8 maximum mana, +4 known mystic powers 
-    Requirements: Mysticism I / Mysticism II / Mysticism III / Mysticism IV 
+    Requirements: Mysticism I / Mysticism II / Mysticism III / Mysticism IV
 
+
+    WILDSHAPE I - IV: 
+    On your turn, channel mana and focus into a transformation.  
+    During transformation, you gain bonus to durability,  
+    and gain extra genes for limited duration: 
+    I - 1 Mana and Focus cost, +1 Durability, +1 Extra Gene, 1 minute 
+    II - 2 Mana and Focus cost, +2 Durability, +2 Extra Genes, 10 minute 
+    III - 3 Mana and Focus cost, +3 Durability, +3 Extra Genes, 30 minutes 
+    IV - 4 Mana and Focus cost, +4 Durability, +4 Extra Genes, 1 hour 
+    Your new form may wildly vary from your regular body, and may be up to 2 size 
+    categories bigger or smaller. You may transform number of times equal to your 
+    proficiency per long rest. 
+    Requires: Mysticism I - IV 
+
+---
+### Auras
+
+    VOID DECAY 
+    All creatures of your choosing in 15 meters radius around you, lose 10 meters  
+    of movement, and their regeneration is reduced by 25%, to a minimum of 5%.  
+    Requirements: Mysticism III 
+
+
+    PROTECTION SIGIL
+    All creatures of your choosing in 15 meters radius around you, including you, 
+    gain +1 bonus to Fortitude, Reflex, Willpower, and AC. 
+    Requirements: Mysticism I 
+
+
+    ETERNAL ENDURANCE
+    All creatures of your choosing in 15 meters radius around you, including you, 
+    instantly gain HP equal to your proficiency modifier, whenever they regenerate. 
+    Requirements: Mysticism II 
+
+
+    NULLIFICATION 
+    All powers of your choosing affecting targets in 15 meter radius around you 
+    have their DC reduced by 1 and damage they deal by 2. 
+    Requirements: Mysticism II 
+
+---
+### Stances
+    
+    STANCE: PHASE RUN 
+    Gain extra 30 meters per round of base movement speed while Incorporeal. 
+    Requirements: Mysticism III 
+
+
+    STANCE: SPELLSLINGER 
+    Regain 1 Focus after you cast a power, and regain 1 Mana if the power is successful. 
+    This effect cannot occur more than once per turn. 
+    You cannot concentrate on any effects or powers for 1 minute after entering this stance. 
+    Requirements: Mysticism III 
+
+---
+### Other
 
     ARCANE MASTERY 
     All powers you cast have Mana cost reduced by 1, to a minimum of 1. 
@@ -61,6 +92,7 @@
     BINDING THOUGHTS: 
     Your command limit increases by your wisdom score.  
     Requirements: Mysticism III 
+
 
     CONJURE ELEMENT: 
     You reach out into the cosmos, and store a chosen element for later use. 
@@ -88,6 +120,7 @@
     For no action, while making a skill check, consume enhancement die to gain bonus to that check. 
     Requirements: Mysticism I 
     
+
     ENERGETIC REJUVENATION: 
     Any effect with lightning damage you cause, may substitute damage dealt with 
     regeneration effect instead. 
@@ -101,6 +134,7 @@
     You may further increase damage by consuming Enhancement Die.  
     Requirements: Mysticism II 
     
+
     ENERGY DEFLECTION: 
     When you finish a long rest, you may choose resistance to one energy type damage subtype (Fire/Cold/Lightning/Chemical/Radiant). 
     Requirements: Mysticism II 
@@ -110,7 +144,9 @@
     Your command limit is increased by your Presence score. Additionally, your charms are doubled in duration. 
     Requirements: Mysticism III 
     
-    GHOST-WALK: 
+
+    GHOST-WALK:
+    Requirements: Mysticism ?
     
     
     HEALING HANDS: 
@@ -141,6 +177,7 @@
     Gain extra Mana equal to [ half of your / your ] casting attribute score. 
     Requirements: Mysticism II / IV 
     
+
     MIND OVER MATTER: 
     Gain extra Health equal to your casting attribute score. 
     Requirements: Mysticism IV 
@@ -171,6 +208,7 @@
     IV – If you detect a damage immunity on a target, you can treat it as resistance insted.
          If you detect a damage resistance on a target, you can ignore it.
 
+
     VANCIAN RITUAL (Basic / Advanced): 
     By casting a mystic power, as a part of a special ritual, you create enhanced 
     version of that power, and store it for later release. 
@@ -179,20 +217,6 @@
     You may store [ 2 / 4 ] powers, with only 1 power for each power tier.   
     Requirements: Arcane Arts III/IV, Mysticism III/IV 
 
-
-    WILDSHAPE I - IV: 
-    On your turn, channel mana and focus into a transformation.  
-    During transformation, you gain bonus to durability,  
-    and gain extra genes for limited duration: 
-    I - 1 Mana and Focus cost, +1 Durability, +1 Extra Gene, 1 minute 
-    II - 2 Mana and Focus cost, +2 Durability, +2 Extra Genes, 10 minute 
-    III - 3 Mana and Focus cost, +3 Durability, +3 Extra Genes, 30 minutes 
-    IV - 4 Mana and Focus cost, +4 Durability, +4 Extra Genes, 1 hour 
-    Your new form may wildly vary from your regular body, and may be up to 2 size 
-    categories bigger or smaller. You may transform number of times equal to your 
-    proficiency per long rest. 
-    Requires: Mysticism I - IV 
-    
 
     YEET FORCE:
     Dealing shockwave damage knocks creatures larger one size or smaller 10m away 
@@ -209,3 +233,4 @@
     Advanced variant gains +1 to Lethality per 10 maximum Mana. 
     Requirements: Mysticism I - III 
   
+---

@@ -32,10 +32,12 @@ nav:
       - Vehicles: gear/vehicles.md
   - World:
       - Overview: world/index.md
-      - Timeline: world/timeline.md
-      - Factions: world/factions.md
       - Locations: world/locations.md
+      - Factions: world/factions.md
+      - Timeline: world/timeline.md
+      - Buildings: world/buildings.md
       - Therun: world/therun.md
+      - Beyond Third: world/beyond-third-horizon.md
 
 # Ignore "other" completely
 exclude_docs: |

@@ -2,9 +2,11 @@
     Str: 8      Full
     Dex: 12     Full
     Con: 10     Full
-    Int: 10     Full
+    Int: 12     Full
     Wis: 6      Full
     Cha: 10     Full
+
+## 
 
 Damage:
 Con + Str
@@ -47,6 +49,10 @@ Bargabuntu: Crafter
 Guntri Kege: Dead gobold
 Shiza Gooteeza: Bugli's Stuff.
 Danka Fink / Dink: Pot Raava
+
+
+Babcia
+Mua Deep
 
 Gord: Beast
 

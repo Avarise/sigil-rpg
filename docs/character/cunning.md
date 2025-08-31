@@ -1,13 +1,52 @@
-### Innate Ability (Tier I / II / III / IV)
-    Attribute Score Improvement: 2/4/6/8 
-    Extra Skill Points: 1/2/3/4 
-    Cunning Actions and bonus to Initiative: +1/+2/+3/+4 
+## Innate Ability
 
-    CUNNING ACTIONS 
+| Feature                 | Tier I | Tier II | Tier III | Tier IV |
+|------------------------|--------|---------|----------|---------|
+| Attribute Score Bonus  | +2     | +4      | +6       | +8      |
+| Initiative Bonus       | +1     | +2      | +3       | +4      |
+
+    CUNNING ACTIONS: 
     Gain bonus to initiative. During each round, you may Expose, Dash,
     Disengage, Hide or gain an extra Reaction once for free. 
 
+---
+
+## Unlockable Abilities
+
+---
+### Core Abilities
+
+    ELUSIVE I - IV: 
+    Your talent to get away from trouble is amplified as long as you can keep the façade. 
+    Whenever you start your turn, you may choose to become Elusive if you are not incapacitated. 
+    Elusive ends when you miss an attack, get hit with an attack, or fail ability check. 
+    I   - While elusive, attacks against you have disadvantage. 
+    II  - When subjected to a Reflex Check, damage you take from the effect is reduced by your Dexterity score.  
+    III - While elusive gain bonus AC equal to your Presence or Intellect modifier. 
+    IV  - When missed by an attack while elusive, you may instantly move up to 10 meters without provoking opportunity attacks. 
+    Requirements: Cunning I / Cunning II / Cunning III / Cunning IV
+
+
+    SNEAK ATTACK I – IV:  
+    When you hit a target with an attack that has advantage, or your ally is 
+    withing 5 meters from this target, target suffers additional  
+    2d6 / 4d6 / 6d6 / 8d6 damage of the same type as triggering attack. 
+    This effect may occur once per round. 
+    Requirements: Cunning I / Cunning II / Cunning III / Cunning IV 
+
+
+    TECH-CASTING I – IV: 
+    Learn up to proficiency modifier of Tech-sourced powers. You can learn powers of a tier equal to level of this ability. 
+    Become Intellect caster, with power DC of 8 + Intellect modifier + proficiency modifier. 
+    Tier I: Unlock Tier I powers, +1 to Engineering Skill 
+    Tier II: Unlock Tier II powers, +2 to Engineering Skill 
+    Tier III: Unlock Tier III powers, +3 to Engineering Skill 
+    Tier IV: Unlock Tier IV powers, +4 to Engineering Skill 
+    Requirements: Cunning I / Cunning II / Cunning III / Cunning IV 
+
+---
 ### Aura Abilities
+
     PASS WITHOUT TRACE
     All creatures of your choosing in 15 meters radius around you, including you,  
     gain bonus to stealth equal to your proficiency modifier. 
@@ -20,17 +59,21 @@
     Intellect modifier. 
     Requirements: Cunning III, 13 Int 
 
+---
 ### Stance Abilities
+
     IRON REFLEXES
     Always have resistance to damage from attacks that hit you 5 points above your AC or less. 
     You lose 2 AC.
     Requirements: Cunning II, 13 Str 
 
+
     HUNTER'S DISCIPLINE
     Sneaking does not impose speed penalty. When your ranged attack has advantage, roll three d20, and choose highest.
     Requirements: Cunning II 
 
-### Other Abilities
+---
+### Other
   
     AVATAR: 
     You can activate one additional aura. 
@@ -52,24 +95,16 @@
     Defense against subject of investigation 
     Requirements: Cunning II 
 
+
     DRONE COMMAND PROTOCOLS: 
     Your command limit increases by your Intellect Score. 
     Requirements: Cunning II 
     
 
-    ELUSIVE I - IV: 
-    Your talent to get away from trouble is amplified as long as you can keep the façade. 
-    Whenever you start your turn, you may choose to become Elusive if you are not incapacitated. 
-    Elusive ends when you miss an attack, get hit with an attack, or fail ability check. 
-    I   - While elusive, attacks against you have disadvantage. 
-    II  - When subjected to a Reflex Check, damage you take from the effect is reduced by your Dexterity score.  
-    III - While elusive gain bonus AC equal to your Presence or Intellect modifier. 
-    IV  - When missed by an attack while elusive, you may instantly move up to 10 meters without provoking opportunity attacks. 
-    Requirements: Cunning I / Cunning II / Cunning III / Cunning IV 
-
     EVOLUTION: METABOLIC BOOST  
     After a long rest, start with a 1d6 of regeneration for each extra gene. 
     Requirements: Cunning I 
+
 
     EVOLUTION: MIMICRY 
     Gain +2 bonus to stealth and intimidation for each extra gene. 
@@ -102,6 +137,7 @@
     Gain bonus to command limit equal to your Presence score. 
     Requirements: Cunning I 
     
+
     LUCK:  
     You have 2 luck points. Whenever you make an attack roll or skill check  
     you may spend 1 luck point to roll an additional d20. You can use this  
@@ -111,6 +147,7 @@
     whether the attacker's roll uses their d20 roll or yours. You regain  
     expended luck points when you finish a long rest.  
     Requirements: Cunning II, 13 Presence 
+
 
     MASTERMIND: 
     Your proficiency bonus is increased by 1. 
@@ -139,27 +176,11 @@
     Requirements: Cunning IV 
     
 
-    SNEAK ATTACK I – IV:  
-    When you hit a target with an attack that has advantage, or your ally is 
-    withing 5 meters from this target, target suffers additional  
-    2d6 / 4d6 / 6d6 / 8d6 damage of the same type as triggering attack. 
-    This effect may occur once per round. 
-    Requirements: Cunning I / Cunning II / Cunning III / Cunning IV 
-
     SURVIVALIST: 
     Whenever you finish a short or a long rest, gain temporary HP equal to half your level (minimum 1) + your survival skill modifier. 
     When surprised, gain +10 bonus to initiative for the following encounter. 
     Requirements: Cunning I 
 
-    TECH-CASTING I – IV: 
-    Learn up to proficiency modifier of Tech-sourced powers. You can learn powers of a tier equal to level of this ability. 
-    Become Intellect caster, with power DC of 8 + Intellect modifier + proficiency modifier. 
-
-    Tier I: Unlock Tier I powers, +1 to Engineering Skill 
-    Tier II: Unlock Tier II powers, +2 to Engineering Skill 
-    Tier III: Unlock Tier III powers, +3 to Engineering Skill 
-    Tier IV: Unlock Tier IV powers, +4 to Engineering Skill 
-    Requirements: Cunning I / Cunning II / Cunning III / Cunning IV 
 
     TRAPPER: 
     You can create traps at double speed. Traps created or traps manually 
@@ -173,3 +194,5 @@
     you can use your reaction to halve the attack's damage against you. 
     Has no effect on psychic damage. 
     Requirements: Cunning II 
+
+---
